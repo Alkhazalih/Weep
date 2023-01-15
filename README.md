@@ -5,3 +5,4 @@
 **Developer : [@Alkhazalih](https://github.com/Alkhazalih)  :atom:**<br>
 **[Developer Page](https://sanad.mrtwix.repl.co) :link:** <br>
 **[Weep Website](https://weep.mrtwix1.repl.co) :link:**<br>
+**[Download For Android](https://github.com/Alkhazalih/Weep/releases) :link:**
